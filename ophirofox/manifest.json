@@ -99,6 +99,7 @@
     , "https://nouveau-europresse-com.revproxy.escpeurope.eu/*"
     , "https://nouveau-europresse-com.univ-eiffel.idm.oclc.org/"
     , "https://nouveau-europresse-com.ezproxy.unilim.fr/*"
+    , "https://nouveau-europresse-com.ezproxy.uphf.fr/*"
   ],
   "background": {
     "scripts": [
